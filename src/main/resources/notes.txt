@@ -1,0 +1,3 @@
+we don't want to expose the object id to the user coz it's from the database
+rather we use the search by the imdb id to search the particular movie
+check the MovieRepo for the implementation
